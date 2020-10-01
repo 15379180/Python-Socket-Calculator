@@ -1,6 +1,7 @@
 Python Socket Calculator
 
 python is a programming language
+Python is really easy to understand and easy to code.
 
 how to use:
 - run "python server.py" in terminal
